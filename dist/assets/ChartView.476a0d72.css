@@ -1,0 +1,1 @@
+#app{height:100vh}.order-book{margin:auto;display:flex;width:100vw;flex-direction:row;justify-content:center}@media (min-width: 1024px){.order-book{width:16.666667%}.order-book{flex-direction:column}}
